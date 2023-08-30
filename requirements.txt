@@ -1,0 +1,8 @@
+itsdangerous==1.1.0
+MarkupSafe==1.1.1
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn==1.2.1
+matplotlib>=1.4.3
+pandas>=0.19
+streamlit

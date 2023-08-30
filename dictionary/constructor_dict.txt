@@ -1,0 +1,7 @@
+{'Renault': array([0.53015075]), 'Williams': array([0.49625935]), 'McLaren': array([0.5914787]), 'Scuderia Ferrari': array([0.89800995]), 'Mercedes': array([0.87780549]), 'AlphaTauri': array([0.45477387]), 'Racing Point': array([0.6084788]), 'Alfa Romeo': array([0.42713568]), 'Red Bull Racing': array([0.825]), 'Haas F1 Team': array([0.34302326])}
+
+
+
+
+
+
